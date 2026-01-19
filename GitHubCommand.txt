@@ -1,0 +1,6 @@
+All GitHub Command
+1. git init ( Initialize Git )
+2. git add . (To add everything in the folder ) OR git add index.html ( To add a specific file )
+3. git commit -m "Describe your file" ( Commit Your Files )
+4. git remote add origin https://github.com/WebHubMaster/Github-Command.git ( Add Remote Repository )
+5. git push origin master ( Push to GitHub Master Branch ) OR git branch -M main ( Push to GitHub Main Branch )
